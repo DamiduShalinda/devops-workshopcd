@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="Decryptogen Tech Logo" />
-        <p>Welcome to the Devops Workshop 2024</p>
+        <p>Welcome to the <span style={{color: "red"}}>Devops Workshop</span> 2024</p>
       </header>
     </div>
   );
